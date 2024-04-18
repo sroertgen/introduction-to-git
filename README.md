@@ -4,3 +4,4 @@ Regenbogen:
 
 rot
 orange
+gelb
