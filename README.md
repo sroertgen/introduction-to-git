@@ -8,3 +8,4 @@ gelb
 grün
 blau
 violett
+pink
