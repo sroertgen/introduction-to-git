@@ -6,3 +6,4 @@ rot
 orange
 gelb
 grün
+blau
