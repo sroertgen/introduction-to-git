@@ -7,3 +7,4 @@ orange
 gelb
 grün
 blau
+violett
