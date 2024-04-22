@@ -9,3 +9,4 @@ grün
 blau
 violett
 pink
+rose
