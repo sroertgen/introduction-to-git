@@ -5,3 +5,4 @@ Regenbogen:
 rot
 orange
 gelb
+grün
